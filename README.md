@@ -1,6 +1,6 @@
 ### Hi there! 👋
-- 🔭 I’m currently working on a CRM application and Ruby on Rals projects.
-- 🌱 I’m currently deep diving into JavaScript and Data Structures and participating on a bootcamp.
+- 🔭 I’m currently working on a CRM application and Ruby on Rails projects.
+- 🌱 I’m currently deep diving into JavaScript, Data Structures and participating on a bootcamp.
 - 📫 How to reach me: eduardo.said.mndz@gmail.com
 
 <!--
